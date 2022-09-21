@@ -50,5 +50,5 @@ var findLength = function (nums1, nums2) {
   //with nums1[i] check if nums1[i+1] equal nums2[nums1[i] + 1]
 };
 
-// console.log(findLength([1, 2, 3, 2, 1], [3, 2, 1, 4, 7]));
+console.log(findLength([1, 2, 3, 2, 1], [3, 2, 1, 4, 7]));
 console.log(findLength([0, 0, 0, 0, 0], [0, 0, 0, 0, 0]));
